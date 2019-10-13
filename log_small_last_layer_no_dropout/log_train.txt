@@ -1,0 +1,121 @@
+Namespace(batch_size=32, decay_rate=0.7, decay_step=200000, gpu=0, learning_rate=0.001, log_dir='log', max_epoch=450, model='pointnet_cls', momentum=0.9, num_point=1024, optimizer='adam')
+**** feature 050 removed ****
+----0-----
+----1-----
+eval mean loss: 2.075335
+eval accuracy: 0.479708
+eval avg class acc: 0.492254
+**** feature 100 removed ****
+----0-----
+----1-----
+eval mean loss: 1.772627
+eval accuracy: 0.532468
+eval avg class acc: 0.513307
+**** feature 150 removed ****
+----0-----
+----1-----
+eval mean loss: 1.466402
+eval accuracy: 0.586445
+eval avg class acc: 0.576398
+**** feature 200 removed ****
+----0-----
+----1-----
+eval mean loss: 1.306389
+eval accuracy: 0.622565
+eval avg class acc: 0.601084
+**** feature 250 removed ****
+----0-----
+----1-----
+eval mean loss: 1.485214
+eval accuracy: 0.593344
+eval avg class acc: 0.560379
+**** feature 300 removed ****
+----0-----
+----1-----
+eval mean loss: 1.061610
+eval accuracy: 0.689935
+eval avg class acc: 0.654559
+**** feature 350 removed ****
+----0-----
+----1-----
+eval mean loss: 1.128567
+eval accuracy: 0.670860
+eval avg class acc: 0.655515
+**** feature 400 removed ****
+----0-----
+----1-----
+eval mean loss: 1.223239
+eval accuracy: 0.639205
+eval avg class acc: 0.621732
+**** feature 450 removed ****
+----0-----
+----1-----
+eval mean loss: 1.128945
+eval accuracy: 0.678977
+eval avg class acc: 0.645603
+**** feature 500 removed ****
+----0-----
+----1-----
+eval mean loss: 1.118985
+eval accuracy: 0.670860
+eval avg class acc: 0.639824
+**** feature 550 removed ****
+----0-----
+----1-----
+eval mean loss: 1.181778
+eval accuracy: 0.670860
+eval avg class acc: 0.649975
+**** feature 600 removed ****
+----0-----
+----1-----
+eval mean loss: 1.105866
+eval accuracy: 0.668019
+eval avg class acc: 0.643325
+**** feature 650 removed ****
+----0-----
+----1-----
+eval mean loss: 1.120866
+eval accuracy: 0.683036
+eval avg class acc: 0.658203
+**** feature 700 removed ****
+----0-----
+----1-----
+eval mean loss: 1.059901
+eval accuracy: 0.693994
+eval avg class acc: 0.652155
+**** feature 750 removed ****
+----0-----
+----1-----
+eval mean loss: 1.061985
+eval accuracy: 0.696023
+eval avg class acc: 0.665428
+**** feature 800 removed ****
+----0-----
+----1-----
+eval mean loss: 1.255091
+eval accuracy: 0.666802
+eval avg class acc: 0.636479
+**** feature 850 removed ****
+----0-----
+----1-----
+eval mean loss: 1.071572
+eval accuracy: 0.696429
+eval avg class acc: 0.666601
+**** feature 900 removed ****
+----0-----
+----1-----
+eval mean loss: 1.077364
+eval accuracy: 0.685877
+eval avg class acc: 0.654000
+**** feature 950 removed ****
+----0-----
+----1-----
+eval mean loss: 1.073001
+eval accuracy: 0.697240
+eval avg class acc: 0.672096
+**** feature 1000 removed ****
+----0-----
+----1-----
+eval mean loss: 1.003381
+eval accuracy: 0.717532
+eval avg class acc: 0.682825
